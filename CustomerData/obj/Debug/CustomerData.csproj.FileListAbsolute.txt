@@ -1,0 +1,6 @@
+C:\Users\dongd\source\repos\WindowsFormsApp1\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\dongd\source\repos\WindowsFormsApp1\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\dongd\source\repos\WindowsFormsApp1\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
+C:\Users\dongd\source\repos\WindowsFormsApp1\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\dongd\source\repos\WindowsFormsApp1\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\dongd\source\repos\WindowsFormsApp1\CustomerData\obj\Debug\CustomerData.pdb

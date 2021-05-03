@@ -1,0 +1,13 @@
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CustomerData.dll
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CustomerData.pdb
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ElectricityBills.csprojAssemblyReference.cache
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ElectricityBills.csproj.GenerateResource.cache
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ElectricityBills.csproj.CoreCompileInputs.cache
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\ElectricityBills.csproj.CopyComplete
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\dongd\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
